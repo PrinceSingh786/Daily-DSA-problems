@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/PrinceSingh786/Daily-DSA-problems/tree/master/0057-insert-interval) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/PrinceSingh786/Daily-DSA-problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/PrinceSingh786/Daily-DSA-problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/PrinceSingh786/Daily-DSA-problems/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/PrinceSingh786/Daily-DSA-problems/tree/master/3665-twisted-mirror-path-count) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/PrinceSingh786/Daily-DSA-problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/PrinceSingh786/Daily-DSA-problems/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/PrinceSingh786/Daily-DSA-problems/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/PrinceSingh786/Daily-DSA-problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Tree
 |  |
