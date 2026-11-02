@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/PrinceSingh786/Daily-DSA-problems/tree/master/0037-sudoku-solver) |
 | [0057-insert-interval](https://github.com/PrinceSingh786/Daily-DSA-problems/tree/master/0057-insert-interval) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/PrinceSingh786/Daily-DSA-problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/PrinceSingh786/Daily-DSA-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/PrinceSingh786/Daily-DSA-problems/tree/master/0037-sudoku-solver) |
 | [3665-twisted-mirror-path-count](https://github.com/PrinceSingh786/Daily-DSA-problems/tree/master/3665-twisted-mirror-path-count) |
 ## Math
 |  |
@@ -102,4 +104,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/PrinceSingh786/Daily-DSA-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/PrinceSingh786/Daily-DSA-problems/tree/master/0037-sudoku-solver) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/PrinceSingh786/Daily-DSA-problems/tree/master/0037-sudoku-solver) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/PrinceSingh786/Daily-DSA-problems/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/PrinceSingh786/Daily-DSA-problems/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
