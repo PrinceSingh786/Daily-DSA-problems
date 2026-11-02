@@ -1,22 +1,19 @@
 class Solution {
-    public void solveSudoku(char[][] board) {
-        solve(board);
+    public static boolean isValid(char[][] board,char c,int row,int col){
+        for(int i=0;i<9;i++){
+            if(board[row][i]==c || board[i][col]==c || board[3*(row/3)+i/3][3*(col/3)+i%3]==c)return false;
+        }
+        return true;
     }
-
-    boolean solve(char[][] b) {
-        for (int i = 0; i < 9; i++) {
-            for (int j = 0; j < 9; j++) {
-
-                if (b[i][j] == '.') {
-
-                    for (char num = '1'; num <= '9'; num++) {
-
-                        if (isValid(b, i, j, num)) {
-                            b[i][j] = num;
-
-                            if (solve(b)) return true;
-
-                            b[i][j] = '.';
+    public static boolean f(char[][] board){
+        for(int i=0;i<9;i++){
+            for(int j=0;j<9;j++){
+                if(board[i][j]=='.'){
+                    for(char c='1';c<='9';c++){
+                        if(isValid(board,c,i,j)){
+                            board[i][j] = c;
+                            if(f(board))return true;
+                            board[i][j] = '.';
                         }
                     }
                     return false;
@@ -25,19 +22,7 @@ class Solution {
         }
         return true;
     }
-
-    boolean isValid(char[][] b, int r, int c, char num) {
-
-        for (int i = 0; i < 9; i++) {
-            if (b[r][i] == num || b[i][c] == num)
-                return false;
-
-            int row = 3 * (r / 3) + i / 3;
-            int col = 3 * (c / 3) + i % 3;
-
-            if (b[row][col] == num)
-                return false;
-        }
-        return true;
+    public void solveSudoku(char[][] board) {
+         f(board);
     }
 }
