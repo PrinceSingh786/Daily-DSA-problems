@@ -1,34 +1,43 @@
 class Solution {
-    int[] row = new int[9], col = new int[9], box = new int[9];
-
-    public void solveSudoku(char[][] b) {
-        for (int i = 0; i < 9; i++)
-            for (int j = 0; j < 9; j++)
-                if (b[i][j] != '.') {
-                    int x = 1 << (b[i][j] - '1');
-                    row[i] |= x; col[j] |= x; box[i/3*3+j/3] |= x;
-                }
-        solve(b, 0);
+    public void solveSudoku(char[][] board) {
+        solve(board);
     }
 
-    boolean solve(char[][] b, int pos) {
-        if (pos == 81) return true;
+    boolean solve(char[][] b) {
+        for (int i = 0; i < 9; i++) {
+            for (int j = 0; j < 9; j++) {
 
-        int r = pos / 9, c = pos % 9;
-        if (b[r][c] != '.') return solve(b, pos + 1);
+                if (b[i][j] == '.') {
 
-        int k = r/3*3+c/3, mask = ~(row[r] | col[c] | box[k]);
+                    for (char num = '1'; num <= '9'; num++) {
 
-        for (int x = mask & 511; x != 0; x &= x - 1) {
-            int bit = x & -x;
-            b[r][c] = (char) ('1' + Integer.numberOfTrailingZeros(bit));
-            row[r] |= bit; col[c] |= bit; box[k] |= bit;
+                        if (isValid(b, i, j, num)) {
+                            b[i][j] = num;
 
-            if (solve(b, pos + 1)) return true;
+                            if (solve(b)) return true;
 
-            row[r] ^= bit; col[c] ^= bit; box[k] ^= bit;
-            b[r][c] = '.';
+                            b[i][j] = '.';
+                        }
+                    }
+                    return false;
+                }
+            }
         }
-        return false;
+        return true;
+    }
+
+    boolean isValid(char[][] b, int r, int c, char num) {
+
+        for (int i = 0; i < 9; i++) {
+            if (b[r][i] == num || b[i][c] == num)
+                return false;
+
+            int row = 3 * (r / 3) + i / 3;
+            int col = 3 * (c / 3) + i % 3;
+
+            if (b[row][col] == num)
+                return false;
+        }
+        return true;
     }
 }
