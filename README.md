@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/PrinceSingh786/Daily-DSA-problems/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/PrinceSingh786/Daily-DSA-problems/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/PrinceSingh786/Daily-DSA-problems/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/PrinceSingh786/Daily-DSA-problems/tree/master/3693-climbing-stairs-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/PrinceSingh786/Daily-DSA-problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/PrinceSingh786/Daily-DSA-problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/PrinceSingh786/Daily-DSA-problems/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/PrinceSingh786/Daily-DSA-problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3665-twisted-mirror-path-count](https://github.com/PrinceSingh786/Daily-DSA-problems/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/PrinceSingh786/Daily-DSA-problems/tree/master/3693-climbing-stairs-ii) |
 ## Matrix
 |  |
 | ------- |
