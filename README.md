@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/PrinceSingh786/Daily-DSA-problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/PrinceSingh786/Daily-DSA-problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/PrinceSingh786/Daily-DSA-problems/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/PrinceSingh786/Daily-DSA-problems/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/PrinceSingh786/Daily-DSA-problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/PrinceSingh786/Daily-DSA-problems/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/PrinceSingh786/Daily-DSA-problems/tree/master/3665-twisted-mirror-path-count) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/PrinceSingh786/Daily-DSA-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/PrinceSingh786/Daily-DSA-problems/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/PrinceSingh786/Daily-DSA-problems/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/PrinceSingh786/Daily-DSA-problems/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Stack
 |  |
