@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/PrinceSingh786/Daily-DSA-problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/PrinceSingh786/Daily-DSA-problems/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/PrinceSingh786/Daily-DSA-problems/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/PrinceSingh786/Daily-DSA-problems/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/PrinceSingh786/Daily-DSA-problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/PrinceSingh786/Daily-DSA-problems/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/PrinceSingh786/Daily-DSA-problems/tree/master/3665-twisted-mirror-path-count) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/PrinceSingh786/Daily-DSA-problems/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/PrinceSingh786/Daily-DSA-problems/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/PrinceSingh786/Daily-DSA-problems/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/PrinceSingh786/Daily-DSA-problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/PrinceSingh786/Daily-DSA-problems/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/PrinceSingh786/Daily-DSA-problems/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -43,10 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/PrinceSingh786/Daily-DSA-problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/PrinceSingh786/Daily-DSA-problems/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/PrinceSingh786/Daily-DSA-problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [3331-find-subtree-sizes-after-changes](https://github.com/PrinceSingh786/Daily-DSA-problems/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/PrinceSingh786/Daily-DSA-problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Indexed Tree
 |  |
@@ -125,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/PrinceSingh786/Daily-DSA-problems/tree/master/0037-sudoku-solver) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/PrinceSingh786/Daily-DSA-problems/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Backtracking
 |  |
 | ------- |
