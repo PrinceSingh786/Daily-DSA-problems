@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/PrinceSingh786/Daily-DSA-problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3934-smallest-unique-subarray](https://github.com/PrinceSingh786/Daily-DSA-problems/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/PrinceSingh786/Daily-DSA-problems/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/PrinceSingh786/Daily-DSA-problems/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## String
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/PrinceSingh786/Daily-DSA-problems/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/PrinceSingh786/Daily-DSA-problems/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/PrinceSingh786/Daily-DSA-problems/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
 |  |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/PrinceSingh786/Daily-DSA-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/PrinceSingh786/Daily-DSA-problems/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/PrinceSingh786/Daily-DSA-problems/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/PrinceSingh786/Daily-DSA-problems/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/PrinceSingh786/Daily-DSA-problems/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/PrinceSingh786/Daily-DSA-problems/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Stack
 |  |
 | ------- |
